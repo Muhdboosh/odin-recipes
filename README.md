@@ -1,2 +1,2 @@
 # odin-recipes
-projecft recopes
+project recopes
